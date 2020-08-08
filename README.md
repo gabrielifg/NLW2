@@ -3,4 +3,5 @@
  Ocorreu do dia 03 ao 07 de agosto de 2020.
 
  Conteúdos:
- 
+    Node -> npm, yarn;
+    
