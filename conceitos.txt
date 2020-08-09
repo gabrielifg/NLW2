@@ -6,4 +6,11 @@ Ou seja, quando o usuário mudar de tela a única coisa que irá mudar é aquilo
 
 Pelo fato de o React ter se tornado um projeto muito grande, acabou que "nasceram" sub-projetos, como: ReactJS (web) /React Native (mobile)/ ReactTv / ReactVR e outros.
 obs: sempre será instalado uma biblioteca padrão React que fará a comunicação entre a forma de se construir e a aplicação - suas especificidades, e a biblioteca padrão.
-Usa-se react-dom para usar o react dentro da web
+***Usa-se react-dom para usar o react dentro da web
+
+*** react-scripts possui um conjunto de configurações que faz o react ser executado no browser. Ou seja, é um pacote que possui um conjunto de configurações que faz a conversão do codigo para que o navegador consiga entender.
+Ferramentas: 
+
+babel: faz por exemplo, a conversão de uma versão do js para uma versão inferior para que todos os browser consigam entender.
+
+web-pack: automatização desse processo, inclusive permite a importação de outros tipos de arquivo pelo js.
