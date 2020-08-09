@@ -27,3 +27,8 @@ obs: no react tudo é componente
 obs2: componentes sempre com letras maiusculas
 
 JSX == JS + XML
+
+rem == é utilizado muito para aplicações responsinvas, que se adaptam a todos os dispositivos.
+
+exemplo 1rem (quer dizer 9.6px)
+rem deixa todo o layout mais fluido, padronizado e por consequência, facilita alterações, não precisando mexer em todos os elementos existentes... no projeto será utilizado 1.6rem
