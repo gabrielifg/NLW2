@@ -4,4 +4,6 @@
 
  Conteúdos:
     Node -> npm, yarn;
-    
+
+Para criar o projeto: 
+  yarn create react-app web --template typescript
