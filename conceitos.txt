@@ -23,3 +23,7 @@ web-pack: automatização desse processo, inclusive permite a importação de ou
 
 
 *** COMPONENTES NO REACT SÃO: funções que retornam um html
+obs: no react tudo é componente
+obs2: componentes sempre com letras maiusculas
+
+JSX == JS + XML
