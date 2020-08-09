@@ -16,3 +16,10 @@ babel: faz por exemplo, a conversão de uma versão do js para uma versão infer
 web-pack: automatização desse processo, inclusive permite a importação de outros tipos de arquivo pelo js.
 
 *** (.lock) -> armazena a versão e bibliotecas que estão sendo usadas no nosso código.
+
+*** Dom: árvore de elementos do html
+
+** ReactDOM.render ==  injeta uma estrutura dentro de um elemento lá no html, estrutura que pode ser manipulada pelo js
+
+
+*** COMPONENTES NO REACT SÃO: funções que retornam um html

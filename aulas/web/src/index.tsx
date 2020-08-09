@@ -6,5 +6,5 @@ ReactDOM.render(
     <App />
   </React.StrictMode>,
   document.getElementById('root')
-);
+); // injeta uma estrutura dentro de um elemento do html
 
