@@ -1,0 +1,8 @@
+ReactJS: É uma biblioteca focada na construção de interfaces. Tende a facilitar a construção de interfaces/layouts. Com html, css e js.
+
+Ficou famoso com a SPA (Single page application) que retira a necessidade de recarregar toda a página quando o usuário navegar de uma tela para outra.
+
+Ou seja, quando o usuário mudar de tela a única coisa que irá mudar é aquilo que for diferente de uma tela para a outra.
+
+Pelo fato de o React ter se tornado um projeto muito grande, acabou que "nasceram" sub-projetos, como: ReactJS (web) /React Native (mobile)/ ReactTv / ReactVR e outros.
+obs: sempre será instalado uma biblioteca padrão React que fará a comunicação entre a forma de se construir e a aplicação - suas especificidades, e a biblioteca padrão.
