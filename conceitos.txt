@@ -14,3 +14,5 @@ Ferramentas:
 babel: faz por exemplo, a conversão de uma versão do js para uma versão inferior para que todos os browser consigam entender.
 
 web-pack: automatização desse processo, inclusive permite a importação de outros tipos de arquivo pelo js.
+
+*** (.lock) -> armazena a versão e bibliotecas que estão sendo usadas no nosso código.
