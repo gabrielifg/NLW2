@@ -6,3 +6,4 @@ Ou seja, quando o usuário mudar de tela a única coisa que irá mudar é aquilo
 
 Pelo fato de o React ter se tornado um projeto muito grande, acabou que "nasceram" sub-projetos, como: ReactJS (web) /React Native (mobile)/ ReactTv / ReactVR e outros.
 obs: sempre será instalado uma biblioteca padrão React que fará a comunicação entre a forma de se construir e a aplicação - suas especificidades, e a biblioteca padrão.
+Usa-se react-dom para usar o react dentro da web
