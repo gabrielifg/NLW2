@@ -1,7 +1,16 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 function TeacherList(){
   return (
-    <h1>Teachers</h1>
+    <div id = "page-teacher-list" className = "container">
+      <header className="page-header">
+        <div className= "top-bar-container">
+          <Link to = "/">
+
+          </Link>
+        </div>
+      </header>
+    </div>
   )
 }
 
